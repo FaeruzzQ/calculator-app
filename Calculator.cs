@@ -2,7 +2,7 @@ class Calculator
 {
 	static void Main(string[] args)
 	{
-		int = 10;
+		int a = 10;
 		int b = 6;
 		
 		Console.WriteLine("Hasil Penambahan : {0} + {1}", a, n, Penambahan(a, b));
